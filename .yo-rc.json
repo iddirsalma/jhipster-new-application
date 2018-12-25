@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterNewApplication",
+    "packageName": "com.sii",
+    "packageFolder": "com/sii",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "MmZhODJlOGRkODA2OTgyNTdhYWUzZGJkYzE0ZDA2ZWMwYWZhZWI2MTY4ODBhOGZhMTRmYTBjZTI2YzU5ZjNlMjIxZTRiZGZlZTg5NTEyMDk3NzViYzJmZWJmYmIxMDg4ZmQ2ZTZkZDkyNmIwZGFkMzQyNDY3NGQyMzNjYjJhNjE=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "iddirsalma",
+  "repository-name": "jhipster-new-application"
+}
